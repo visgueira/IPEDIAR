@@ -40,6 +40,10 @@ O mesmo procedimento deve ser adotado para a pasta DESTINO...
 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179594658-5ffca14a-f424-40ba-8fa3-0709c9d56e10.png">
 
+Com os dados das pastas de ORIGEM e DESTINO preenchidas resta agora clicar no botão INDEXAR.
+
+<img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179599793-f4988066-679d-4f60-8f5f-8279bf2c9862.png">
+
 
 
 
