@@ -31,11 +31,14 @@ Irá aparecer um tela semelhante a essa 👇 devendo ao usuário somente escolhe
 
 Após isso, o caminho da pasta ORIGEM será exibida ao lado do botão ORIGEM.
 
-<img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179585617-a39b1f5e-5202-4614-91fc-3ee6f91d703d.png">
+<img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179591882-7f7d77a7-6cc1-48f9-ad13-e03ffc7b2a45.png">
 
 O mesmo procedimento deve ser adotado para a pasta DESTINO...
 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179584177-31044bff-a6f7-4956-966d-5fa8a9c5faea.png">
+
+
+<img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179594658-5ffca14a-f424-40ba-8fa3-0709c9d56e10.png">
 
 
 
