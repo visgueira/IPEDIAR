@@ -25,7 +25,7 @@ Tendo sido atendidos todos os requisitos acima mencionados, navegue até a pasta
 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179518224-247ee851-dc42-4221-a098-acdb1254d297.png">
 
-Irá aparecer um tela semelhante a essa 👇 devendo ao usuário somente escolher a pasta e clicar no botão Selecionar pasta.
+Irá aparecer um tela semelhante a essa 👇 devendo ao usuário somente escolher a pasta e clicar no botão "Selecionar pasta".
 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179576593-03562c37-c683-45e8-9af0-de5fab6c463b.png">  
 
