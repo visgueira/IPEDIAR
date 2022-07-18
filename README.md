@@ -1,6 +1,6 @@
 # IPEDIAR
 
-Aplicativo que serve como interface gráfica de usuário (GUI) para uso de recursos do [**IPED**](https://github.com/lfcnassif/IPED/releases) em evidências digitais apreendidas por agentes públicos em investigações, mas também por entidaddes e/ou órgãos de fiscalização e controle em repositórios de documentos digitais corporativos ou conjuntos de dados das equipes de trabalho atuando como um indexador de temas segmentados.
+Aplicativo que serve como interface gráfica de usuário (GUI) para uso de recursos do [**IPED**](https://github.com/lfcnassif/IPED/releases) 🔎 em evidências digitais apreendidas por agentes públicos em investigações e também por entidades e/ou órgãos de fiscalização e controle em repositórios de documentos digitais corporativos ou conjuntos de dados das equipes de trabalho atuando como um indexador de temas segmentados.
 
 Atualmente se encontra na versão 4.0, compatível com o IPED a partir das versões do 4.0.0.
 
@@ -25,9 +25,14 @@ Tendo sido atendidos todos os requisitos acima mencionados, navegue até a pasta
 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179518224-247ee851-dc42-4221-a098-acdb1254d297.png">
 
-Irá aparecer um tela semelhante a essa 👇 devendo somente ao usuário escolher a pasta e clicar no botão Selecionar pasta.
+Irá aparecer um tela semelhante a essa 👇 devendo ao usuário somente escolher a pasta e clicar no botão Selecionar pasta.
 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179576593-03562c37-c683-45e8-9af0-de5fab6c463b.png">  
+
+Após isso, o caminho da pasta de origem será exibida ao lado do botão ORIGEM.
+
+<img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179581209-ce6eba0b-66e5-49f8-b0a7-19959c26f386.png">
+
 
 
 
