@@ -25,7 +25,9 @@ A tela inicial do IPEDIAR é composta de **botões** e **menus** que facilitam a
 
 # Como usar o IPEDIAR?
 
-Tendo sido atendidos todos os requisitos acima mencionados, navegue até a pasta do IPED e dê duplo clique no arquivo do **IPEDIAR.exe**, feito isso 
+Tendo sido atendidos todos os requisitos acima mencionados, navegue até a pasta do IPED e dê duplo clique no arquivo do **IPEDIAR.exe**, feito isso aguarde a tela inicial aparecer e clique no botão origem.
+
+![image](https://user-images.githubusercontent.com/5096974/179514709-9e009f19-e26c-466f-b25a-630eebb9050b.png)
 
 
 
