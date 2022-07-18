@@ -8,9 +8,13 @@ Atualmente se encontra na versão 4.0, compatível com o IPED a partir das vers�
 
 Para o funcionamento do IPED e do IPEDIAR, o [**Java versão 64 bits**](https://www.java.com/pt-BR/download/manual.jsp) precisa estar instalado e em funcionamento no dispositivo que irá realizar a indexação, o que pode ser facilmente verificado digitando   **_`java -version`_**  no prompt de comando (CMD ou Bash). O resultado esperado é que sejam exibidos os dados da versão do Java em execução com a informação **64-Bit**, caso esse dado não apareça o Java 64 bits não está em execução nesse dispositivo.
 
+<!---![Logo do R](http://developer.r-project.org/Logo/Rlogo-5.png)
+
+![Teste](https://user-images.githubusercontent.com/5096974/179482470-68b6b521-745b-4d24-861b-68cca9c34e84.png)
+--!>
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/5096974/179482470-68b6b521-745b-4d24-861b-68cca9c34e84.png">
 
-Já com relação especificamente ao **IPEDIAR**, o requisito básico é que este precisar estar na mesma pasta do executável do IPED conforme a figura abaixo.
+Já com relação especificamente ao **IPEDIAR**, o requisito básico é que este precisar estar **na mesma pasta** do executável do IPED conforme a figura abaixo.
 
 <img width="806" alt="image" src="https://user-images.githubusercontent.com/5096974/179485111-349e8658-5474-4458-952a-f3d102b65c9e.png">
 
@@ -21,7 +25,7 @@ A tela inicial do IPEDIAR é composta de **botões** e **menus** que facilitam a
 
 # Como usar o IPEDIAR?
 
-Tendo sido cumpridos todos os requisitos acima mencionados, navegue até a pasta do 
+Tendo sido atendidos todos os requisitos acima mencionados, navegue até a pasta do IPED e dê duplo clique no arquivo do **IPEDIAR.exe**, feito isso 
 
 
 
