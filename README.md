@@ -44,6 +44,8 @@ Com os dados das pastas de ORIGEM e DESTINO preenchidos resta agora clicar no bo
 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179599793-f4988066-679d-4f60-8f5f-8279bf2c9862.png">
 
+Falta inserir as informações da finalização da indexação.
+
 
 
 
