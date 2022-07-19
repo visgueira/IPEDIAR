@@ -12,6 +12,9 @@ Para o funcionamento do IPED e do IPEDIAR, o [**Java versão 64 bits**](https://
 
 Já, especificamente com relação  ao **IPEDIAR**, o requisito básico é que este precisar estar "**na mesma pasta**" do executável do IPED conforme a figura abaixo.
 
+Por fim, em razão de requisitos de segurança, e ainda atendendo recomendações do próprio desenvolvedor do Sistema Operacional (Microsoft), este aplicativo foi desenvolvido de forma que **não é executado no Windows 7**, vez que o próprio fabricante não presta mais suporte a referida versão. 
+
+
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/5096974/179485111-349e8658-5474-4458-952a-f3d102b65c9e.png">
 
 # Tela Inicial
@@ -40,28 +43,7 @@ O mesmo procedimento deve ser adotado para a pasta DESTINO...
 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179594658-5ffca14a-f424-40ba-8fa3-0709c9d56e10.png">
 
-Com os dados das pastas de ORIGEM e DESTINO preenchidos resta agora clicar no botão INDEXAR.
+Com os dados das pastas de ORIGEM e DESTINO preenchidos resta agora clicar no botão INDEXAR. Ao final do processamento e indexação, o resultado estará disponível na pasta de DESTINO.
 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179599793-f4988066-679d-4f60-8f5f-8279bf2c9862.png">
-
-Falta inserir as informações da finalização da indexação.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
