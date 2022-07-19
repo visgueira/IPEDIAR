@@ -29,7 +29,7 @@ Irá aparecer um tela semelhante a essa 👇 devendo ao usuário somente escolhe
 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179576593-03562c37-c683-45e8-9af0-de5fab6c463b.png">  
 
-Após isso, o caminho da pasta ORIGEM será exibida ao lado do botão ORIGEM.
+Após isso, o caminho da pasta ORIGEM será exibido ao lado do botão ORIGEM.
 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179591882-7f7d77a7-6cc1-48f9-ad13-e03ffc7b2a45.png">
 
