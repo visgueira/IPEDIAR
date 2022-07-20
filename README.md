@@ -20,11 +20,11 @@ Por fim, em razão de requisitos de segurança, e ainda atendendo recomendaçõe
 # Tela Inicial
 A tela inicial do IPEDIAR é composta de **botões** e **menus** que facilitam a execução do IPED, conforme imagem abaixo.
 
-<img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179491552-dcebe8cd-4149-45f2-a223-637ce981437f.png">
+<img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179491552-dcebe8cd-4149-45f2-a223-637ce981437f.png"> 
 
 # Como usar o IPEDIAR?
 
-Tendo sido atendidos todos os requisitos acima mencionados, navegue até a pasta do IPED e dê duplo clique no arquivo do **IPEDIAR.exe**, feito isso aguarde a tela inicial aparecer e clique no botão origem para indicar a pasta que contem os dados que serão processados e indexados com o IPED.
+Tendo sido atendidos todos os requisitos acima mencionados, navegue até a pasta do IPED e dê duplo clique no arquivo **IPEDIAR.exe**, feito isso aguarde a tela inicial aparecer e clique no botão origem para indicar a pasta que contem os dados que serão processados e indexados pelo IPED.
 
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/5096974/179518224-247ee851-dc42-4221-a098-acdb1254d297.png">
 
