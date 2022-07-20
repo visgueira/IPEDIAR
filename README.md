@@ -6,7 +6,7 @@ Atualmente se encontra na versão 4.0, compatível com o IPED a partir das vers�
 
 # Requisitos
 
-Para o funcionamento do IPED e do IPEDIAR, o [**Java versão 64 bits**](https://www.java.com/pt-BR/download/manual.jsp) precisa estar instalado e em funcionamento no dispositivo que irá realizar a indexação, o que pode ser facilmente verificado digitando   **_`java -version`_**  no prompt de comando (CMD ou Bash). O resultado esperado é que sejam exibidos os dados da versão do Java em execução com a informação **64-Bit**, caso esse dado não apareça o Java 64 bits não está em execução nesse dispositivo.
+Para o funcionamento do IPED e do IPEDIAR, o [**Java 11 versão 64 bits**](https://www.oracle.com/java/technologies/downloads/#java11) precisa estar instalado e em funcionamento no dispositivo que irá realizar a indexação, o que pode ser facilmente verificado digitando   **_`java -version`_**  no prompt de comando (CMD ou Bash). O resultado esperado é que sejam exibidos os dados da versão do Java em execução com a informação **64-Bit**, caso esse dado não apareça o Java 64 bits não está em execução nesse dispositivo.
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/5096974/179482470-68b6b521-745b-4d24-861b-68cca9c34e84.png">
 
