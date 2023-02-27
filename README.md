@@ -2,11 +2,11 @@
 
 Aplicativo que serve como interface gráfica de usuário (GUI) para uso de recursos do [**IPED**](https://github.com/lfcnassif/IPED/releases) 🔎 em evidências digitais apreendidas por agentes públicos em investigações e também por entidades e/ou órgãos de fiscalização e controle em repositórios de documentos digitais corporativos ou conjuntos de dados das equipes de trabalho atuando como um indexador de temas segmentados.
 
-Atualmente se encontra na versão 4.0.1, compatível com o IPED a partir das versões do 4.0.x. 
+Atualmente se encontra na versão 4.0.2, compatível com o IPED a partir das versões do 4.0.x. 
 
 # Requisitos
 
-A partir dessa versão do IPEDIAR **não é mais necessária a instalação do Java** na máquina que irá executar o IPED, vez que este já contempla uma versão _embedded_. 
+A partir da versão 4.X do IPED **não é mais necessária a instalação do Java** na máquina que irá executá-lo, vez que este já contempla uma versão _embedded_. 
 
 Em relação  ao **IPEDIAR**, o requisito básico é que seu arquivo executável precisar estar "**na mesma pasta**" do executável do IPED conforme a figura abaixo.
 
