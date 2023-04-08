@@ -6,7 +6,7 @@ depois podem ser consultados individualmente.
 
 # Modo de uso
 
-Após abrir o IPEDIAR clique no menu Iniciar, conforme a figura abaixo e selecione a opção Multicasos....
+Após abrir o IPEDIAR clique no menu Iniciar, conforme a figura abaixo e selecione a opção Multicasos.... **EM CONSTRUÇÃO**
 
 
 
